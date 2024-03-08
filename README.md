@@ -9,6 +9,9 @@
 
 # Dependencies
 *Python 3.x
-Required libraries (numpy, pandas, scikit-learn, etc.) [open](https://github.com/PrernaSinha15/REGRESSION/blob/main/Regression%20model%20.ipynb)
+Required libraries (numpy, pandas, scikit-learn, etc.)
+# Outcome
+* The model will output the predicted compressive strength of the concrete.
+[open](https://github.com/PrernaSinha15/REGRESSION/blob/main/Regression%20model%20.ipynb)
 
 
