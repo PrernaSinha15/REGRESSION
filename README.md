@@ -9,6 +9,6 @@ The regression model implemented in this repository uses [Linear Regression] for
 
 Dependencies
 Python 3.x
-Required libraries (numpy, pandas, scikit-learn, etc.)
+Required libraries (numpy, pandas, scikit-learn, etc.) [open](
 
 
