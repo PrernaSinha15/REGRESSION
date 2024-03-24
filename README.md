@@ -1,4 +1,4 @@
-# Regression Analysis
+# 1.Regression Analysis
 # Overview
 * This repository contains a regression model implemented in Python for predicting concrete strength based on the properties of the concrete mix. The model is trained on the well-known Concrete Compressive Strength dataset.
 
@@ -16,11 +16,11 @@ Required libraries (numpy, pandas, scikit-learn, etc.)
 [open](https://github.com/PrernaSinha15/REGRESSION/blob/main/Regression%20model%20.ipynb)
 
 
-# BLACK FRIDAY
+# 2.BLACK FRIDAY
 # Description about Black Friday Dataset
 * This repository contains a synthetic dataset simulating transactions that occur during a Black Friday sales event in retail stores. The dataset includes various attributes such as customer demographics, product categories, and purchase amounts.
 
-* Dataset Attributes:
+# Dataset Attributes:
 
 User_ID: Unique identifier for each customer.
 Product_ID: Unique identifier for each product.
@@ -49,5 +49,5 @@ The primary objectives of the project include:
 * Visualization: Visualize key findings and insights using charts, graphs, and dashboards to enhance interpretability and communication.
 * Recommendations: Provide actionable recommendations based on the analysis to retailers for enhancing sales effectiveness and customer satisfaction during Black Friday sales.
 # Conclusion:
-* The Black Friday Project provides valuable insights into consumer behavior and sales trends during one of the busiest shopping events of the year. By leveraging data-driven approaches and machine learning techniques, the project aims to empower retailers with actionable insights for optimizing sales strategies and enhancing customer satisfaction during Black Friday sales.[open](
+* The Black Friday Project provides valuable insights into consumer behavior and sales trends during one of the busiest shopping events of the year. By leveraging data-driven approaches and machine learning techniques, the project aims to empower retailers with actionable insights for optimizing sales strategies and enhancing customer satisfaction during Black Friday sales.[open](https://github.com/PrernaSinha15/REGRESSION/blob/main/BlackFriday.ipynb)
 
