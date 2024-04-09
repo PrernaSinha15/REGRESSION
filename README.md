@@ -53,5 +53,5 @@ The primary objectives of the project include:
 # WINE PREDICTION
 * The Wine Prediction project is a comprehensive initiative focused on utilizing predictive analytics to assess and forecast the quality of wines based on their physicochemical properties. It encompasses a rich dataset containing diverse attributes related to the chemical composition of wines, coupled with quality ratings. Through advanced modeling techniques, this project aims to develop predictive models capable of accurately evaluating and predicting the quality of wines. By leveraging machine learning algorithms and statistical analysis, the project endeavors to provide valuable insights for wine producers, enthusiasts, and consumers alike, facilitating informed decision-making and enhancing the appreciation of wine quality.
 ## Outcome
-* the outcome of the Wine Prediction project is to enhance the appreciation and enjoyment of wine by leveraging data-driven insights and predictive analytics to assess and predict wine quality accurately.[open](
+* the outcome of the Wine Prediction project is to enhance the appreciation and enjoyment of wine by leveraging data-driven insights and predictive analytics to assess and predict wine quality accurately.[open](https://github.com/PrernaSinha15/REGRESSION/blob/main/Wine%20Prediction.ipynb)
 
