@@ -64,5 +64,5 @@ The primary objectives of the project include:
 
 ## Risk Assessment: Additionally, the project aims to identify key factors and patterns that influence loan approval decisions. By analyzing the relationships between applicant characteristics and loan outcomes, the project provides insights into the risk factors associated with lending. This enables financial institutions to better assess and manage loan risks, leading to more informed decision-making and reduced default rates.
 
-Overall, the Loan Prediction project facilitates data-driven decision-making in the domain of lending, helping financial institutions streamline their loan approval processes, mitigate risks, and enhance customer satisfaction.[open](
+Overall, the Loan Prediction project facilitates data-driven decision-making in the domain of lending, helping financial institutions streamline their loan approval processes, mitigate risks, and enhance customer satisfaction.[open](https://github.com/PrernaSinha15/REGRESSION/blob/main/loan_prediction_project.ipynb)
 
